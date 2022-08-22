@@ -1,5 +1,5 @@
 import React from 'react';
-import SEPractices from "../../dummydata/SE-Practices"
+import SEPractices from "../dummydata/SE-Practices" 
   const optionItems = SEPractices.map((SEPractice) =>
                 <option key={SEPractice.practice}>{SEPractice.practice}</option>
             );

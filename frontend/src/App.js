@@ -7,9 +7,9 @@ import {
 } from "react-router-dom";
  
 import Home from "./pages/Home";
-import SEPractice from "./pages/SE-Practice";
-import SubmitArticle from "./pages/Submit-Article"; 
-import NotFoundPage from "./pages/404";
+import SEPractice from "./pages/SEPractice";
+import SubmitArticle from "./pages/SubmitArticle"; 
+import NotFoundPage from "./pages/404"; 
 
 
 const App = () =>  {
